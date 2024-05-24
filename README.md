@@ -1,0 +1,3 @@
+# Barcode Drop CLI
+
+barcode
