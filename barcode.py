@@ -47,7 +47,7 @@ def main():
     # MARK: Post Scan
 
     post_scan_parser = subparsers.add_parser(
-        "post",
+        "scan",
         help="Post a new scan"
     )
 
